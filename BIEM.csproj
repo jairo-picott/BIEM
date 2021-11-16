@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="ZoneHVACForcedAirUnits\" />
+    <Folder Include="ZoneHVACEquipmentConnections\" />
+    <Folder Include="ZoneHVACControlsandThermostats\" />
+    <Folder Include="ZoneAirFlow\" />
+    <Folder Include="Tools\" />
+    <Folder Include="ThermalZoneandSurfaces\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xbim.Essentials" Version="5.1.323" />
+    <PackageReference Include="Xbim.Geometry" Version="5.1.403" />
+  </ItemGroup>
+
+</Project>
