@@ -14,8 +14,6 @@ To use BIEM-Ifc, clone the repository to your local machine:
 
 git clone https://github.com/jairo-picott/BIEM.git
 
-Instructions for setup and usage can be found in the documentation within the repository.
-
 ## How to Contribute
 Contributions to BIEM-Ifc are welcome! If you have suggestions for improvements or have identified issues, please feel free to fork this repository, make your changes, and submit a pull request.
 
