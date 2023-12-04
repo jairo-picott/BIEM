@@ -12,7 +12,7 @@ Welcome to the BIEM-Ifc repository! This digital tool is at the forefront of int
 ## Getting Started
 To use BIEM-Ifc, clone the repository to your local machine:
 
-git clone [[repository-url]](https://github.com/jairo-picott/BIEM.git)
+git clone https://github.com/jairo-picott/BIEM.git
 
 Instructions for setup and usage can be found in the documentation within the repository.
 
